@@ -31,6 +31,22 @@ h1 {
   font-size: 0.9rem;
 }
 
+.pdf-button {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.6rem 1.2rem;
+  border: 1px solid #38bdf8;
+  color: #38bdf8;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+.pdf-button:hover {
+  background-color: #38bdf8;
+  color: #0f172a;
+}
+
 nav {
   display: flex;
   justify-content: center;
