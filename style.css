@@ -58,10 +58,10 @@ nav {
 nav a {
   color: #38bdf8;
   text-decoration: none;
-  
 }
 
-nav a:hover {
+nav a:hover,
+nav a:focus {
   color: #ffffff;
 }
 
